@@ -1,6 +1,5 @@
 
-Olá! Meu nome é Marcos da Silva Rodrigues, e [Uploading Portfolio.html…]()
-sou um programador apaixonado por criar soluções inovadoras. Meu portfólio é uma janela para o mundo do desenvolvimento, onde busco unir minha paixão pela programação com a criação de experiências incríveis.
+Olá! Meu nome é Marcos da Silva Rodrigues, e sou um programador apaixonado por criar soluções inovadoras. Meu portfólio é uma janela para o mundo do desenvolvimento, onde busco unir minha paixão pela programação com a criação de experiências incríveis.
 
 Meus Serviços
 Ofereço uma variedade de serviços para ajudar você ou sua empresa a alcançar seus objetivos:
@@ -21,6 +20,7 @@ Fale Comigo
 Estou pronto para ajudar! Entre em contato comigo e obtenha um diagnóstico gratuito para suas necessidades.
 
 Espero que meu portfólio possa mostrar como minha paixão pela programação se traduz em soluções práticas e impactantes.
+ [Uploading Portfolio.html…]()
 
 ![foto 01](https://github.com/marcosdasilvarodrigues/Trabalho-/assets/105816659/db93cf6b-1983-4343-bf86-32241893846c)
 ![foto 02](https://github.com/marcosdasilvarodrigues/Trabalho-/assets/105816659/fb3b82bc-7d72-4f08-9caa-ad11aafb99e5)
