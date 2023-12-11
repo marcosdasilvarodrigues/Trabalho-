@@ -26,9 +26,5 @@ Espero que meu portfólio possa mostrar como minha paixão pela programação se
 
 
 
-
-
-
 # Trabalho - portifolio
 - VER CÓDIGO NO ARQUIVO SITE TRABALHO.TXT
-
